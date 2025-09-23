@@ -1,0 +1,16 @@
+In this challenge we have to invoke a program by providing its path on the command line.
+## My Solve
+**Flag:**pwn.college{slydP79vaDsH-cJfwHUiHqOrmxj.QX4cTO0wCN4kjNzEzW}
+In this challenge, I first understood that the filesystem starts at /. This style of path, one that starts with the root directory, is referred to as an "absolute path".
+To invoke the pwn program using its absolute path, we have to write /pwn.
+
+hacker@paths~the-root:~$ /pwn
+BOOM!!!
+Here is your flag:
+pwn.college{slydP79vaDsH-cJfwHUiHqOrmxj.QX4cTO0wCN4kjNzEzW}
+
+## What I Learned
+Through this challenge, I was able to learn about absoulete path.
+
+## Refernces
+Did not use any references for this challenge.
