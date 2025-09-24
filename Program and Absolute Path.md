@@ -3,12 +3,12 @@ This challenge requires you to execute challenge program under a challenge direc
 **Flag:** pwn.college{EbZ5YFBbhdENk6wyJ_Lqoj8Ayii.QX1QTN0wCN4kjNzEzW}
 
 For this challenge, I first understood he name of the challenge program in this is run, and it lives in the /challenge directory. Thus, the path to the run challenge program is /challenge/run.
-
+```bash
 hacker@paths~program-and-absolute-paths:~$ /challenge/run
 Correct!!!
 /challenge/run is an absolute path! Here is your flag:
 pwn.college{EbZ5YFBbhdENk6wyJ_Lqoj8Ayii.QX1QTN0wCN4kjNzEzW}
-
+```
 ## What I Learned
 Through this challenge, I was able to learn to execute challenge program under a challenge directory.
 
