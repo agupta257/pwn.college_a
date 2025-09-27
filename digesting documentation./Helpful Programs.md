@@ -1,4 +1,4 @@
-In this challenge we have to ivoke /challenge/challenge properly in order for it to get the flag.
+In this challenge we have to learn about the --help argument
 ## My Solve
 
 **Flag:** pwn.college{8gtecttDx5aUhSrnkP02GTx5lbP.QX3IDO0wCN4kjNzEzW}
