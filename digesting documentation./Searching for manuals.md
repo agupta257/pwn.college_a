@@ -1,4 +1,4 @@
-In this challenge we have to find out the right man page which will tell us the correct usage of /challenge/challenge and get the flag.
+In this challenge we have to search for the right man page and then get the flag.
 ## My Solve
 
 **Flag:**pwn.college{w4eDAn4cBcB8EL55uXdgMtmzai_.QX2EDO0wCN4kjNzEzW}
