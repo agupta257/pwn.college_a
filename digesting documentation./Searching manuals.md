@@ -1,4 +1,4 @@
-In this challenge we have to find the correct argument which is in the manual page to get the flag.
+In this challenge we have to find the option that will give you the flag by reading the challenge man page.
 ## My Solve
 
 **Flag:**pwn.college{8p3UwD9AV379dSzFKANBdUTh4nT.QX1EDO0wCN4kjNzEzW}
