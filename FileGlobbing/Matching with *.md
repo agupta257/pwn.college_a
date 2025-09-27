@@ -1,4 +1,4 @@
-In this challenge we have to read the manual page of challenge and get the flag.
+In this challenge we have to learn the usage of * character.
 ## My Solve
 
 **Flag:**pwn.college{AZIs2Tlj-AqwLRIcYTTFF0oo2Fj.QXxIDO0wCN4kjNzEzW}
