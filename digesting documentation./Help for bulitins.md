@@ -1,4 +1,4 @@
-In this challenge we have to read the manual page of challenge and get the flag.
+In this challenge we have to get a list of shell builtins by running the builtin help.
 ## My Solve
 
 **Flag:**pwn.college{IpKB3tt8JpKHbqwcHOX6JSwoxVQ.QX0ETO0wCN4kjNzEzW}
