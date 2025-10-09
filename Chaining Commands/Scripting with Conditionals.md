@@ -7,7 +7,7 @@ In this challenge, I followed the commands to get the flag.
 hacker@chaining~scripting-with-conditionals:~$ echo '#!/bin/bash' > /home/hacker/solve.sh
 hacker@chaining~scripting-with-conditionals:~$ echo 'if [ "$1" == "pwn" ]' >> /home/hacker/solve.sh
 hacker@chaining~scripting-with-conditionals:~$ echo 'then' >> /home/hacker/solve.sh
-hacker@chaining~scripting-with-conditionals:~$ echo '    echo "college"' >> /home/hacker/solve.sh
+hacker@chaining~scripting-with-conditionals:~$ echo 'echo "college"' >> /home/hacker/solve.sh
 hacker@chaining~scripting-with-conditionals:~$ echo 'fi' >> /home/hacker/solve.sh
 hacker@chaining~scripting-with-conditionals:~$ chmod ugo+x /home/hacker/solve.sh
 hacker@chaining~scripting-with-conditionals:~$ /home/hacker/solve.sh pwn
