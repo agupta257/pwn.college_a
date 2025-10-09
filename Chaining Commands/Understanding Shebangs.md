@@ -4,10 +4,11 @@ In this challenge we have to create a script at /home/hacker/solve.sh that has a
 **Flag:** pwn.college{wabSHQ_PGDteug7IXrPcP5dZcwh.0VOzMDOxwCN4kjNzEzW}
 In this challenge, I followed the instructions to get the flag.
 ```bash
-hacker@chaining~understanding-shebangs:~$ echo '#!/bin/bash' > /home/hacker/solve.sh
-hacker@chaining~understanding-shebangs:~$ echo 'echo "hack the planet"' >> /home/hacker/solve.sh
-hacker@chaining~understanding-shebangs:~$ chmod ugo+x /home/hacker/solve.sh
-hacker@chaining~understanding-shebangs:~$ /challenge/run
+hacker@practice~chaining~understanding-shebangs:~$ #!/bin/bash
+hacker@practice~chaining~understanding-shebangs:~$ echo "hack the planet"
+hack the planet
+hacker@practice~chaining~understanding-shebangs:~$ chmod ugo+x /home/hacker/solve.sh
+hacker@practice~chaining~understanding-shebangs:~$ /challenge/run
 Testing your script...
 Perfect! Your flag:
 Flag: pwn.college{wabSHQ_PGDteug7IXrPcP5dZcwh.0VOzMDOxwCN4kjNzEzW}
