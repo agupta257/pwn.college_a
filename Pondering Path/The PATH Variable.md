@@ -1,7 +1,7 @@
 In this challenge we have to run /challenge/run such that it doesn't delete the flag.
 ## My Solve
 
-**Flag:*pwn.college{sexfaXG3jnn748WNRjtOoNrkJ4z.QX2cDM1wCN4kjNzEzW}
+**Flag:**pwn.college{sexfaXG3jnn748WNRjtOoNrkJ4z.QX2cDM1wCN4kjNzEzW}
 In this challenge, I used the PATH variable for it to not remove the flag.
 ```bash
 hacker@path~the-path-variable:~$ PATH=''
